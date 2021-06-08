@@ -4,7 +4,7 @@ Plan for an educational high school internship through Hyland's Tech Outreach Te
 ## Basic Information - PEEKE Internship
 https://www.youthopportunities.org/stories/2019/1/peeke-yous-new-internship-program
 
-- The summer internship will be **180 hours** total.
+- The summer internship will be **150 hours** total.
 - This should give interns an opportunity to **explore a career path** of their interest.
 - Interns will receive a **stipend**.
 - Interns who complete the program may be eligible for an **OhioMeansJobs-Readiness Seal**.
@@ -34,7 +34,7 @@ Regardless of the specific project experience, each intern should have an opport
 - Contributing to open source projects
 
 ## Schedule
-The schedule for the 180 hours of the internship will be flexible, but there are some basic items that should happen at certain times.
+The schedule for the 150 hours of the internship will be flexible, but there are some basic items that should happen at certain times.
 
 ### Orientation
 Before jumping into the projects, there should be some time to onboard the interns.
@@ -68,6 +68,7 @@ This project would be an option for interns who already have a good amount of co
 - The design and implementation should be up to the intern team.
 - Interns should figure out which technologies to use.
  - This will likely require them to learn something new.
+- They should consider the user experience and data required for the application.
 - Interns should have design guidance from the stakeholders, as well as technical guidance.
 - Interns should collaborate, possibly using GitHub.
 

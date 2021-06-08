@@ -7,7 +7,7 @@ https://www.youthopportunities.org/stories/2019/1/peeke-yous-new-internship-prog
 - The summer internship will be **180 hours** total.
 - This should give interns an opportunity to **explore a career path** of their interest.
 - Interns will receive a **stipend**.
-- Interns who complete the program may be eligible for an **OhioMeansJobs-Readiness Seal** .
+- Interns who complete the program may be eligible for an **OhioMeansJobs-Readiness Seal**.
 - Interns may have experience with computer science, or they may not.
 
 ## Goals

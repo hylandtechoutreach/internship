@@ -90,3 +90,13 @@ This project would be an option for interns who do not have coding experience.
 - Interns could complete our Web 101 and Web 102 courses independently.
  - They should show their work, to be evaluated by stakeholders.
 - Their final project could be to build a marketing website for the Tech Outreach Team.
+
+#### Testing Other Tools
+Interns could also try going through other tutorials, like:
+- [CodeCombat](https://codecombat.com/)
+- [Ozaria](https://www.ozaria.com/)
+- [Codecademy](https://www.codecademy.com/)
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- Anything else
+
+Whichever materials they use, their feedback could be valuable for us. This could be from a quality assurance perspective, or from a research perspective.

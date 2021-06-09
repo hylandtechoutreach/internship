@@ -100,3 +100,8 @@ Interns could also try going through other tutorials, like:
 - Anything else
 
 Whichever materials they use, their feedback could be valuable for us. This could be from a quality assurance perspective, or from a research perspective.
+
+### Other Ideas
+- Have interns work on administrative tasks of some kind
+- Have interns help facilitate our programs
+- Have interns help with marketing / recruitment efforts

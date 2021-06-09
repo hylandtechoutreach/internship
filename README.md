@@ -49,6 +49,7 @@ Before jumping into the projects, there should be some time to onboard the inter
  - This is a way for us to know what they are working on
 - Weekly check-ins with each individual student
  - This is an opportunity for a more individual check-in
+- Y.O.U. will accept the amount of work for hours even if they get it done early
 
 ## Projects
 Interns may have some options for projects. Each project should have:
@@ -87,7 +88,7 @@ Interns could provide us valuable feedback about our current programs. As studen
 
 This project would be an option for interns who do not have coding experience.
 
-- Interns could complete our Web 101 and Web 102 courses independently.
+- Interns could complete our Web 101 and Web 102 courses, with help from instructors.
  - They should show their work, to be evaluated by stakeholders.
 - Their final project could be to build a marketing website for the Tech Outreach Team.
 

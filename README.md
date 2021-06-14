@@ -45,11 +45,40 @@ Before jumping into the projects, there should be some time to onboard the inter
 - Icebreakers / Games
 
 ### Throughout the Internship
-- Daily stand-up meetings at 1pm with all students
+- Daily stand-up meetings at 1pm with all interns
  - This is a way for us to know what they are working on
-- Weekly check-ins with each individual student
+- Work/meeting time from 1pm-3pm 
+- Bi-weekly check-ins with each individual student
  - This is an opportunity for a more individual check-in
 - Y.O.U. will accept the amount of work for hours even if they get it done early
+
+### Educational Track Schedule
+For the educational track, the interns should mainly focus on learning HTML, CSS, and JavaScript. Some of this should be instructor-led, but the students should also be able to work independently. Interns should use Replit to store their work.
+
+During independent work, interns can ask questions as needed. 
+
+- The first week can be general onboarding stuff
+- Getting through a course of material = 20 hours
+- Web 101 - first two lessons should be instructor-led (2 hrs/ lesson)
+  - The next lessons can be self-paced (2 hrs/ lesson)
+    - There are video recordings for each session
+  - Intro to CSS lesson can be instructor-led as well
+  - Try to get done in one week
+  - No final project
+- Web 102 - first two lessons should be instructor-led (2 hrs/ lesson)
+  - The next lessons can be self-paced (2 hrs/ lesson)
+
+Should be done with instructor-led material by the end of July - the remainder of the time should mainly be self-paced. This should make scheduling easier and more flexible, especially if an intern has to go back to school or has other responsibilities.
+
+### Experienced Track Schedule
+Most of the time for the experienced interns will be spent independently, or working as a team. However, there are some important preliminary meetings. These should help the interns plan their project work.
+
+- Project Overview Meeting: An overall look at what we hope to accomplish by the end of the project
+  - This is from a top-level user perspective - stakeholders should be present
+- Architecture Review Meeting: A discussion of potential architectures/technologies that could be used for the project
+  - This is from a technical perspective - only the architect needs to be present
+- Initial Planning Meeting: Creating cards, narrowing down tasks, and figuring out who can do what
+- Demos/Planning: Throughout the internship, there should be check-ins with the team
 
 ## Projects
 Interns may have some options for projects. Each project should have:

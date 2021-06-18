@@ -57,7 +57,8 @@ For the educational track, the interns should mainly focus on learning HTML, CSS
 
 During independent work, interns can ask questions as needed. 
 
-- The first week can be general onboarding stuff
+- The first day can be general onboarding stuff
+  - Assessment: https://quizizz.com/admin/quiz/60cc840c86f793001c027641
 - Getting through a course of material = 20 hours
 - Web 101 - first two lessons should be instructor-led (2 hrs/ lesson)
   - The next lessons can be self-paced (2 hrs/ lesson)

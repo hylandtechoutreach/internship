@@ -52,7 +52,7 @@ Before jumping into the projects, there should be some time to onboard the inter
  - This is an opportunity for a more individual check-in
 - Y.O.U. will accept the amount of work for hours even if they get it done early
 
-### Educational Track Schedule
+### Educational Track Schedule (Green Group)
 For the educational track, the interns should mainly focus on learning HTML, CSS, and JavaScript. Some of this should be instructor-led, but the students should also be able to work independently. Interns should use Replit to store their work.
 
 During independent work, interns can ask questions as needed. 
@@ -71,7 +71,7 @@ During independent work, interns can ask questions as needed.
 
 Should be done with instructor-led material by the end of July - the remainder of the time should mainly be self-paced. This should make scheduling easier and more flexible, especially if an intern has to go back to school or has other responsibilities.
 
-### Experienced Track Schedule
+### Experienced Track Schedule (Blue Group)
 Most of the time for the experienced interns will be spent independently, or working as a team. However, there are some important preliminary meetings. These should help the interns plan their project work.
 
 - Project Overview Meeting: An overall look at what we hope to accomplish by the end of the project

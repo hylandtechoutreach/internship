@@ -1,6 +1,14 @@
 # Hyland Y.O.U. PEEKE Internship
 Hello, and welcome to the Hyland Y.O.U. PEEKE Internship Page.
 
+## Zoom Info
+All scheduled meetings will take place via [Zoom](https://zoom.us/).
+
+The meeting ID is **926 1804 1602**, and the password is **439930**.
+
+- [Click Here to join from PC, Mac, Linux, iOS or Android](https://hyland.zoom.us/j/92618041602?pwd=c0p1aS9tZHdXOGVmSndNQURVTVU4dz09).
+- To join by phone: Dial [+1 312 626 6799](tel:+13126266799) and enter the meeting ID and password.
+
 ## Scheduling
 For the first two weeks of the internship, there will be a few important meetings:
 

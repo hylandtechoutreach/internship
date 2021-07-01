@@ -9,6 +9,17 @@ The meeting ID is **926 1804 1602**, and the password is **439930**.
 - [Click Here to join from PC, Mac, Linux, iOS or Android](https://hyland.zoom.us/j/92618041602?pwd=c0p1aS9tZHdXOGVmSndNQURVTVU4dz09).
 - To join by phone: Dial [+1 312 626 6799](tel:+13126266799) and enter the meeting ID and password.
 
+## Groups
+Interns will be split into two groups.
+
+### Green Group
+The green group will work on going through the [Web 101](https://hylandtechclub.com/web-101) and [Web 102](https://hylandtechclub.com/web-102) Hy-Tech Club curriculum. Some of this will be instructor-led, and some of it will be independent work. Ultimately, students should have the opportunity to build a website (or possibly a game/something else) that will benefit the Hyland Tech Outreach Team.
+
+### Blue Group
+The blue group will work as a software development team with the goal of creating a Hackathon web application. The Hyland Tech Outreach team plans to use this web application to help facilitate future [Hyland Hackathons](https://hyland.com/hackathon), either virtually _or_ in-person.
+
+Initial [requirements](HackathonAppRequirements.md) have been set. Interns will track their work via [Trello](https://trello.com). The work will likely shift and evolve throughout the internship.
+
 ## Scheduling
 For the first two weeks of the internship, there will be a few important meetings:
 

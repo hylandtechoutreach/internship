@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Hackathon App Requirements · GitBook</title>
+        <title>Hackathon App Architecture · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -61,10 +61,8 @@
     <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="ArchitectureNotes.html" />
     
-    
-    <link rel="prev" href="./" />
+    <link rel="prev" href="HackathonAppRequirements.html" />
     
 
     </head>
@@ -106,7 +104,7 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.2" data-path="HackathonAppRequirements.html">
+        <li class="chapter " data-level="1.2" data-path="HackathonAppRequirements.html">
             
                 <a href="HackathonAppRequirements.html">
             
@@ -119,7 +117,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3" data-path="ArchitectureNotes.html">
+        <li class="chapter active" data-level="1.3" data-path="ArchitectureNotes.html">
             
                 <a href="ArchitectureNotes.html">
             
@@ -162,7 +160,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >Hackathon App Requirements</a>
+        <a href="." >Hackathon App Architecture</a>
     </h1>
 </div>
 
@@ -177,52 +175,41 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="hackathon-app-requirements">Hackathon App Requirements</h1>
-<p>The Hackathon App will be a way for mentors and students to connect and communicate throughout a hackathon event. It should be surfaced via the web so that it can be accessed by all hackathon participants, regardless of technology.</p>
-<h2 id="basic-features">Basic Features</h2>
+                                <h4 id="front-end">Front-End</h4>
 <ul>
-<li>Admins should be able to load students into the database<ul>
-<li>In the future - students may be able to register directly</li>
+<li>JavaScript<ul>
+<li>Angular (TypeScript)? React (&#x1F525;), Vue, Handlebars</li>
 </ul>
 </li>
-<li>Admins should be able to view project submissions from teams</li>
-<li>Mentors should be able to view a <em>Team Profile</em> for each team, including:<ul>
-<li>Team type (HS / College)</li>
-<li>Team members (names, schools, grade levels)</li>
-<li>Struggle levels (do they need help?)</li>
-<li>Technologies/languages they are using</li>
-<li>Current project idea</li>
-<li>Location (if in-person)</li>
-<li>Contact information</li>
+<li>Form frameworks?<ul>
+<li><a href="https://bashooka.com/coding/javascript-libraries-for-amazing-and-functional-forms/" target="_blank">https://bashooka.com/coding/javascript-libraries-for-amazing-and-functional-forms/</a></li>
 </ul>
 </li>
-<li>Mentors should be able to add notes about a team for other members<ul>
-<li>These notes can be used by other mentors in the future</li>
-<li>They should also appear in the <em>Team Profile</em></li>
 </ul>
-</li>
-<li>Students should be able to update their <em>Team Profile</em> and individual profiles</li>
-<li>Teams should be able to submit their projects</li>
-</ul>
-<h2 id="additional-requirements-brainstorm">Additional Requirements Brainstorm</h2>
+<h4 id="back-end">Back-End</h4>
 <ul>
-<li>List of events, time for events, what&apos;s coming next?<ul>
-<li>Timeline/newsfeed</li>
+<li>Django/Flask through Python</li>
+<li>NodeJs/ExpressJS</li>
+<li>Ruby on Rails</li>
+<li>C# Entity Framework - plugins for SQLite and MySQL</li>
 </ul>
-</li>
-<li>Authentication system &#x2013; at least two roles &#x2013; mentors/attendees</li>
-<li>Does not necessarily need to be hosted online</li>
-<li>Checklist of things for attendees to complete<ul>
-<li>Completion status doesn&apos;t necessarily have to be stored &#x2013; just a place to know all that was needed</li>
+<h4 id="database">Database</h4>
+<ul>
+<li>SQLite</li>
+<li>MongoDB</li>
+<li>MySQL</li>
 </ul>
-</li>
-<li>Rubrics for presentation &#x2013; judging criteria</li>
-<li>Should ideally be built for multiple events<ul>
-<li>A way to record/track past events</li>
+<h4 id="rest-api">REST API</h4>
+<ul>
+<li>Front-end calls endpoints to get the data it needs</li>
+<li>Back-end isn&apos;t serving the files</li>
+<li>Front-end has its own (dumb) server</li>
+<li><a href="https://www.restapitutorial.com/" target="_blank">https://www.restapitutorial.com/</a></li>
 </ul>
-</li>
-<li>Some way for mentors to send global message &#x2013; embed discord into the site (?)</li>
-<li>Make it mobile friendly in case anyone has internet troubles</li>
+<h4 id="version-control---github">Version Control - GitHub</h4>
+<ul>
+<li>One repo for the front-end</li>
+<li>One repo for the back-end</li>
 </ul>
 
                                 
@@ -251,14 +238,10 @@
 
             
                 
-                <a href="./" class="navigation navigation-prev " aria-label="Previous page: Introduction">
+                <a href="HackathonAppRequirements.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page: Hackathon App Requirements">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
-                
-                <a href="ArchitectureNotes.html" class="navigation navigation-next " aria-label="Next page: Hackathon App Architecture">
-                    <i class="fa fa-angle-right"></i>
-                </a>
                 
             
         
@@ -267,7 +250,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Hackathon App Requirements","level":"1.2","depth":1,"next":{"title":"Hackathon App Architecture","level":"1.3","depth":1,"path":"ArchitectureNotes.md","ref":"ArchitectureNotes.md","articles":[]},"previous":{"title":"Introduction","level":"1.1","depth":1,"path":"BOOKREADME.md","ref":"BOOKREADME.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"HackathonAppRequirements.md","mtime":"2021-07-01T18:01:18.506Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-07-01T18:01:55.935Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Hackathon App Architecture","level":"1.3","depth":1,"previous":{"title":"Hackathon App Requirements","level":"1.2","depth":1,"path":"HackathonAppRequirements.md","ref":"HackathonAppRequirements.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"ArchitectureNotes.md","mtime":"2021-07-01T18:01:18.506Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-07-01T18:01:55.935Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>

@@ -20,6 +20,8 @@ The blue group will work as a software development team with the goal of creatin
 
 Initial [requirements](HackathonAppRequirements.md) have been set. Interns will track their work via [Trello](https://trello.com). The work will likely shift and evolve throughout the internship.
 
+The [architecture](ArchitectureNotes.md) for the application is yet to be defined. Interns will work with Hyland stakeholders to determine the best structure for the app.
+
 ## Scheduling
 For the first two weeks of the internship, there will be a few important meetings:
 

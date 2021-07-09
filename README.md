@@ -136,3 +136,11 @@ Whichever materials they use, their feedback could be valuable for us. This coul
 - Have interns work on administrative tasks of some kind
 - Have interns help facilitate our programs
 - Have interns help with marketing / recruitment efforts
+
+## Execution
+Documenting the process of the internship in Summer 2021.
+
+Discord: https://discord.com/channels/856551977352691742/856553396936638486
+
+### Blue Group
+- Trello Board: https://trello.com/b/fCQmyiKQ/hackathon-app-project-2021-blue-group

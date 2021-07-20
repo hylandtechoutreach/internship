@@ -13,7 +13,7 @@ The Hackathon App will be a way for mentors and students to connect and communic
   - Current project idea
   - Location (if in-person)
   - Contact information
-- Mentors should be able to add notes about a team for other members
+- Mentors should be able to add notes about a team for other mentors to see
   - These notes can be used by other mentors in the future
   - They should also appear in the _Team Profile_
 - Students should be able to update their _Team Profile_ and individual profiles

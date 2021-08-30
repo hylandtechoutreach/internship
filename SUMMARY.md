@@ -1,2 +1,3 @@
-- [Hackathon App Requirements](HackathonAppRequirements.md)
-- [Hackathon App Architecture](ArchitectureNotes.md)
+- [Blue Group - Hackathon App Requirements](HackathonAppRequirements.md)
+- [Blue Group - Hackathon App Architecture](ArchitectureNotes.md)
+- [Green Group - Web 102 Project](GreenGroup/Web102Project.md)

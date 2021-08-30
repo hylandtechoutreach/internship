@@ -15,6 +15,8 @@ Interns will be split into two groups.
 ### Green Group
 The green group will work on going through the [Web 101](https://hylandtechclub.com/web-101) and [Web 102](https://hylandtechclub.com/web-102) Hy-Tech Club curriculum. Some of this will be instructor-led, and some of it will be independent work. Ultimately, students should have the opportunity to build a website (or possibly a game/something else) that will benefit the Hyland Tech Outreach Team.
 
+After completing the material for the Web 101 and Web 102 courses, students should refer to [this page](GreenGroup/Web102Project.md) to see what to do next.
+
 ### Blue Group
 The blue group will work as a software development team with the goal of creating a Hackathon web application. The Hyland Tech Outreach team plans to use this web application to help facilitate future [Hyland Hackathons](https://hyland.com/hackathon), either virtually _or_ in-person.
 

@@ -12,7 +12,18 @@ The original idea was to not use a REST API, but it was decided to use a REST AP
 
 After making some decisions, students did some research and learned about some of the technologies.
 
-Students began to design the UX of the app
+Students began to design the UX of the app. Work and designs were tracked on Trello.
+
+## GitHub
+Students used GitHub to store source code. Each team member had forks for the [front-end](https://github.com/hylandtechoutreach/hackathon-app-front-end) and [back-end](https://github.com/hylandtechoutreach/hackathon-app-back-end) repositories. After cloning their forks locally, they would:
+
+- Fetch upstream via the web
+- Pull changes down to local clone from their remote
+- Make changes, push them up to their fork
+- Make pull requests between their fork and the main repo
+
+## Tutorials
+- https://www.youtube.com/watch?v=f5ygXQKF6M8 (not great but Tevyah followed this one)
 
 ## Software
 - Python
@@ -20,6 +31,7 @@ Students began to design the UX of the app
 - VS Code
 - Postman
 - NodeJS (for NPM)
+- Git
 
 ## Areas for Improvement
 - Make more decisions ahead of time

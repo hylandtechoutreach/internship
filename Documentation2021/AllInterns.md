@@ -1,5 +1,5 @@
-# PEEKE Interns - All
-Notes about activities we did with all interns, regardless of group.
+# PEEKE Interns - All Groups
+Notes about activities we did with all interns together, regardless of group.
 
 ## June 17th - Meet Your Mentor thru Y.O.U.
 We met some of the interns, did some icebreaker activities.
@@ -8,7 +8,7 @@ We met some of the interns, did some icebreaker activities.
 
 ![](https://i.imgur.com/3anFbXL.png)
 
-### Notes Before Session
+### Agenda
 
 **~10m**
 - Start with us introducing ourselves
@@ -42,13 +42,13 @@ We met some of the interns, did some icebreaker activities.
   - Sporcle - https://www.sporcle.com/
   - Bombparty
 
-### Notes After Session
-Did not do the virtual scavenger hunt
+### Meeting Recap
+Followed the agenda - did basic questions and played online Pictionary.
 
 ## June 28th - Day One
 We showed them the schedule, and went over expectations
 
-### Notes Before Session
+### Agenda
 - Scheduling
   - Hopefully you all saw the schedule – it will be a little more free after the first two weeks
   - We will also have individual check-ins, likely on a bi-weekly basis
@@ -84,7 +84,9 @@ We showed them the schedule, and went over expectations
   - Telestrations - https://drawphone.tannerkrewson.com/
   - Sporcle - https://www.sporcle.com/
 
-Student Trello Boards
+### Student Trello Boards
+These are the boards the students created by the end of day one.
+
 https://trello.com/invite/b/DuGpRa3Z/02655b03d9c4e2b6d17eee1d9ca6a74d/delon-hendricks-board
 https://trello.com/invite/b/ne1W9kbp/36f6e3618ec60a97bd687c5aeb29aa63/ag
 https://trello.com/invite/b/zSzoJwY1/f1ecf088ad1aba97b4423004b3ff63a8/personal-board
@@ -94,7 +96,7 @@ https://trello.com/invite/b/0UkhCxGO/8d98ce775ff5c4a25c098f0d6d590e12/halina
 ## Thursday Check-ins
 We checked in with the whole group each Thursday as the last meeting of the week.
 
-### Example Notes Before Session
+### Example Agenda
 - Weekly check-in form https://forms.gle/L4yEBXsKfLpuAzqM7
 - Responses https://docs.google.com/spreadsheets/d/1hkSYErvkGIkdht8jNBr1aPfriKQVNQBq3dVDTo3fdbQ/edit?resourcekey#gid=1065443389
 - Song https://www.youtube.com/watch?v=CTAud5O7Qqk

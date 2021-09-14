@@ -1,5 +1,5 @@
 # PEEKE Interns - Blue Group
-The blue group intern project is an app for the Hyland Hackathon.
+The blue group intern project is an app for the Hyland Hackathon. These are general notes for the entire project. For documentation about individual sessions, check the [Blue Session Notes](BlueSessionNotes/) folder.
 
 ## Notes
 Started by having interns decide on technology stack and architecture - they did research and the team decided to use a REST API with:

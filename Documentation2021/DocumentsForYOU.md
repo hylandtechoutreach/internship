@@ -2,7 +2,7 @@
 A description for the internship experience.
 
 ### Overview of Company
-Hyland Software is the developer of the enterprise content management and process management software suite called OnBase. Applications of the suite are used in healthcare, financial institutions, insurance, government, higher education and manufacturing. It is an international company based out of Westlake, Oho.
+Hyland Software is the developer of the enterprise content management and process management software suite called OnBase. Applications of the suite are used in healthcare, financial institutions, insurance, government, higher education and manufacturing. It is an international company based out of Westlake, Ohio.
 
 The Hyland Tech Outreach Team will be responsible for the mentorship of the interns. Tech Outreach provides a variety of programs which teach students computer science to support a future where technology skills are essential, while giving employees the opportunity to give back to the community.
 
